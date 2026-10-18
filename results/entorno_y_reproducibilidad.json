@@ -1,0 +1,54 @@
+{
+  "fuente_dataset": "simulado; redacción manual para ejercicio académico",
+  "numero_registros": 120,
+  "distribucion_clases": {
+    "POS": 40,
+    "NEG": 40,
+    "NEU": 40
+  },
+  "modelo_seleccionado_preliminar": "XLM-RoBERTa",
+  "python": "3.13.15",
+  "torch": "2.11.0+cu130",
+  "transformers": "4.57.6",
+  "huggingface_hub": "0.36.2",
+  "sklearn": "1.6.1",
+  "gpu": "Tesla T4",
+  "device": 0,
+  "seed": 42,
+  "batch_size": 16,
+  "max_length": 128,
+  "repeticiones_cronometradas": 3,
+  "modelos": {
+    "RoBERTuito": {
+      "model_id": "pysentimiento/robertuito-sentiment-analysis",
+      "revision_hub": "a2cc0f67ebd705c55191e25a05ba23d885fcc09b",
+      "licencia": "no declarada",
+      "tiempos_inferencia_s": [
+        0.4452285149999966,
+        0.5150712810000186,
+        0.4968218550000074
+      ]
+    },
+    "XLM-RoBERTa": {
+      "model_id": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+      "revision_hub": "f2f1202b1bdeb07342385c3f807f9c07cd8f5cf8",
+      "licencia": "no declarada",
+      "tiempos_inferencia_s": [
+        0.2728572020000115,
+        0.1693530069999838,
+        0.16597017899999855
+      ]
+    },
+    "DistilBERT": {
+      "model_id": "lxyuan/distilbert-base-multilingual-cased-sentiments-student",
+      "revision_hub": "cf991100d706c13c0a080c097134c05b7f436c45",
+      "licencia": "apache-2.0",
+      "tiempos_inferencia_s": [
+        0.17862263999995776,
+        0.12316134700000703,
+        0.1187044640000181
+      ]
+    }
+  },
+  "advertencia": "El rendimiento sobre reseñas simuladas no equivale a validación clínica o de producción."
+}

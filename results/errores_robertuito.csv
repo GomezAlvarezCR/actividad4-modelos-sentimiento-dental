@@ -1,0 +1,20 @@
+﻿id,texto,etiqueta,tema,prediccion
+R003,"Pregunté por los pasos del procedimiento, pero la respuesta fue confusa.",NEG,explicaciones,NEU
+R014,Después del procedimiento me dieron seguimiento y respondieron mis preguntas.,POS,seguimiento,NEU
+R015,Me entregaron un presupuesto claro y el cobro coincidió con lo acordado.,POS,costos,NEU
+R018,Me hablaron de cargos adicionales cuando el tratamiento ya había comenzado.,NEG,costos,NEU
+R038,En la revisión posterior escucharon mis comentarios y ajustaron un detalle sin problema.,POS,seguimiento,NEU
+R040,El comprobante llegó enseguida y el monto fue exactamente el presupuestado.,POS,pagos,NEU
+R063,Pude pagar con tarjeta y me explicaron las condiciones antes de realizar el cargo.,POS,pagos,NEU
+R066,El acabado del tratamiento superó mis expectativas sin verse artificial.,POS,resultados,NEU
+R068,Respondieron incluso mis preguntas más básicas y nunca sentí presión para aceptar.,POS,explicaciones,NEG
+R070,"Mi tratamiento terminó dentro del horario estimado, lo cual me facilitó el día.",POS,tiempos,NEU
+R080,Aprecié que me presentaran alternativas antes de elegir el tratamiento.,POS,costos,NEU
+R087,"Confirmé mi horario, pero al llegar mi reserva no aparecía en el sistema.",NEG,citas,NEU
+R095,Reprogramé mi valoración fácilmente y me ofrecieron varias opciones.,POS,citas,NEU
+R104,La consulta comenzó puntual y aun así tuvieron tiempo para revisarme con cuidado.,POS,tiempos,NEU
+R110,El procedimiento se prolongó más de lo anunciado sin aviso previo.,NEG,tiempos,NEU
+R114,Tuve muy pocas molestias y me explicaron qué sensaciones podían ser normales.,POS,molestias,NEU
+R115,"Cuando necesité una pausa durante la atención, la respetaron de inmediato.",POS,molestias,NEU
+R117,Me propusieron un tratamiento sin aclarar sus limitaciones ni otras alternativas.,NEG,explicaciones,NEU
+R119,Antes de comenzar me explicaron los beneficios y limitaciones del procedimiento.,POS,explicaciones,NEU

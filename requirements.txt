@@ -1,0 +1,8 @@
+# Dependencias que instala el notebook. Usar Google Colab y GPU disponible.
+# PyTorch/CUDA ya vienen configurados por Colab.
+transformers>=4.46,<5
+huggingface_hub>=0.26,<1
+sentencepiece>=0.2,<0.3
+scikit-learn>=1.4,<2
+pandas>=2,<3
+matplotlib>=3.8,<4

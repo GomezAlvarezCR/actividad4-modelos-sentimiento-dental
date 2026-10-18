@@ -1,0 +1,64 @@
+﻿id,texto,etiqueta,tema,prediccion
+R005,No me explicaron bien las opciones y terminé con más dudas que al llegar.,NEG,explicaciones,NEU
+R011,El procedimiento se dividió en dos citas de diferente duración.,NEU,tiempos,POS
+R012,El comprobante de pago se envió por correo electrónico.,NEU,pagos,POS
+R013,No me convenció el aspecto de la restauración y sigo esperando una revisión.,NEG,resultados,NEU
+R016,Pasé primero a la sala de espera y después al área clínica.,NEU,instalaciones,POS
+R018,Me hablaron de cargos adicionales cuando el tratamiento ya había comenzado.,NEG,costos,POS
+R019,El odontólogo revisó el ajuste de la restauración al cerrar la boca.,NEU,resultados,NEG
+R020,Antes del procedimiento me preguntaron si tenía sensibilidad dental.,NEU,molestias,NEG
+R022,En el consultorio hay una unidad dental y equipo para tomar fotografías.,NEU,instalaciones,POS
+R025,La revisión fue rápida sin sentirse apresurada; salí muy satisfecho.,POS,tiempos,NEG
+R027,Solicité la factura y entregué mis datos fiscales.,NEU,pagos,POS
+R028,Durante la revisión me solicitaron señalar las zonas que sentía sensibles.,NEU,molestias,POS
+R032,Me entregaron una hoja con las indicaciones para después del tratamiento.,NEU,explicaciones,POS
+R033,En recepción registraron mi llegada antes de pasar al consultorio.,NEU,atencion,POS
+R034,Durante la cita se verificó la forma de las piezas restauradas.,NEU,resultados,POS
+R035,Me enviaron por mensaje la fecha y la hora de la consulta.,NEU,citas,POS
+R036,Me resultó muy cómodo dividir el pago conforme a las condiciones acordadas.,POS,pagos,NEG
+R037,La cita de control fue agendada al terminar el tratamiento.,NEU,citas,POS
+R039,La recepción se encuentra junto al área de espera.,NEU,instalaciones,POS
+R041,"Antes de continuar, pregunté por el costo del mantenimiento semestral.",NEU,costos,POS
+R042,Me indicaron qué estudios se requieren antes de iniciar la siguiente fase.,NEU,explicaciones,POS
+R043,Realicé el pago de la consulta mediante transferencia.,NEU,pagos,POS
+R045,Durante el tratamiento utilizaron instrumental y una lámpara de trabajo.,NEU,instalaciones,POS
+R046,La próxima revisión quedó anotada para dentro de seis meses.,NEU,citas,POS
+R047,El ambiente fue tranquilo y todo estaba organizado para atenderme.,POS,instalaciones,NEG
+R048,Acudí a una valoración dental y el odontólogo revisó mis dientes.,NEU,atencion,POS
+R052,"Hubo una pequeña espera, pero el proceso fue ágil y la atención valió la pena.",POS,tiempos,NEG
+R053,Solicité una cotización de tratamiento para valorar distintas opciones.,NEU,costos,POS
+R056,Me tomaron fotografías para comparar el estado de mis dientes en la próxima visita.,NEU,resultados,POS
+R057,"La terminal rechazó el cobro, pero no supieron orientarme sobre la operación.",NEG,pagos,NEU
+R058,La consulta incluyó una entrevista inicial y una exploración bucal.,NEU,atencion,POS
+R059,"Aunque estaba nervioso, el trato del equipo me hizo sentir tranquilo.",POS,atencion,NEG
+R060,No me agradaron las condiciones del espacio donde tuve que esperar.,NEG,instalaciones,NEU
+R061,Me dieron una fecha para revisar el estado de la restauración.,NEU,seguimiento,POS
+R062,Recibí un mensaje con las indicaciones para mi próxima visita.,NEU,seguimiento,POS
+R063,Pude pagar con tarjeta y me explicaron las condiciones antes de realizar el cargo.,POS,pagos,NEG
+R064,La revisión y la explicación del plan se realizaron en la misma consulta.,NEU,tiempos,POS
+R065,La recepción me ofreció opciones de pago claras y sin complicaciones.,POS,pagos,NEU
+R067,La revisión de control incluyó fotografías y preguntas sobre los cuidados.,NEU,seguimiento,POS
+R068,Respondieron incluso mis preguntas más básicas y nunca sentí presión para aceptar.,POS,explicaciones,NEU
+R069,Me informaron el precio de la revisión y el de una posible restauración.,NEU,costos,POS
+R072,Mi cita estaba programada para la mañana y terminó antes del mediodía.,NEU,tiempos,POS
+R073,La limpieza duró aproximadamente cuarenta minutos.,NEU,tiempos,POS
+R075,Hoy se colocó una restauración y tengo una revisión programada.,NEU,resultados,NEG
+R082,Durante la visita hablé con el odontólogo y con una persona de recepción.,NEU,atencion,NEG
+R085,Me atendieron con paciencia y me sentí escuchada durante toda la consulta.,POS,atencion,NEG
+R086,"Aunque la primera consulta fue buena, el seguimiento posterior me decepcionó.",NEG,seguimiento,POS
+R087,"Confirmé mi horario, pero al llegar mi reserva no aparecía en el sistema.",NEG,citas,NEU
+R088,El presupuesto incluye un desglose de los procedimientos propuestos.,NEU,costos,NEG
+R089,"Me prometieron una revisión de seguimiento, pero nunca me contactaron.",NEG,seguimiento,NEU
+R090,"La consulta incluyó información sobre limpieza, restauraciones y controles.",NEU,explicaciones,POS
+R091,Me asignaron un horario distinto al que había solicitado y fue difícil corregirlo.,NEG,citas,POS
+R092,El resultado estético no se parece a lo que habíamos conversado.,NEG,resultados,NEU
+R096,En la consulta hablamos sobre los cuidados que debo seguir durante los próximos días.,NEU,molestias,POS
+R098,En recepción me explicaron los métodos de pago disponibles.,NEU,pagos,POS
+R099,Programé una cita para el jueves por la tarde.,NEU,citas,POS
+R102,Intenté cambiar la cita varias veces y nadie respondió mis mensajes.,NEG,citas,NEU
+R105,Recibí una explicación de las etapas previstas para mi tratamiento.,NEU,explicaciones,POS
+R106,Después del tratamiento me proporcionaron un número para dudas administrativas.,NEU,seguimiento,POS
+R108,El odontólogo me preguntó cómo me sentía al terminar la sesión.,NEU,molestias,NEG
+R110,El procedimiento se prolongó más de lo anunciado sin aviso previo.,NEG,tiempos,NEU
+R114,Tuve muy pocas molestias y me explicaron qué sensaciones podían ser normales.,POS,molestias,NEG
+R117,Me propusieron un tratamiento sin aclarar sus limitaciones ni otras alternativas.,NEG,explicaciones,NEU

@@ -1,0 +1,16 @@
+﻿id,texto,etiqueta,tema,prediccion
+R003,"Pregunté por los pasos del procedimiento, pero la respuesta fue confusa.",NEG,explicaciones,NEU
+R014,Después del procedimiento me dieron seguimiento y respondieron mis preguntas.,POS,seguimiento,NEU
+R018,Me hablaron de cargos adicionales cuando el tratamiento ya había comenzado.,NEG,costos,NEU
+R029,La reserva fue sencilla; me enviaron la información necesaria con anticipación.,POS,citas,NEU
+R040,El comprobante llegó enseguida y el monto fue exactamente el presupuestado.,POS,pagos,NEU
+R063,Pude pagar con tarjeta y me explicaron las condiciones antes de realizar el cargo.,POS,pagos,NEU
+R068,Respondieron incluso mis preguntas más básicas y nunca sentí presión para aceptar.,POS,explicaciones,NEU
+R078,Me ofrecieron una modalidad de pago que al final no estaba disponible.,NEG,pagos,NEU
+R087,"Confirmé mi horario, pero al llegar mi reserva no aparecía en el sistema.",NEG,citas,NEU
+R089,"Me prometieron una revisión de seguimiento, pero nunca me contactaron.",NEG,seguimiento,NEU
+R092,El resultado estético no se parece a lo que habíamos conversado.,NEG,resultados,NEU
+R104,La consulta comenzó puntual y aun así tuvieron tiempo para revisarme con cuidado.,POS,tiempos,NEU
+R114,Tuve muy pocas molestias y me explicaron qué sensaciones podían ser normales.,POS,molestias,NEG
+R117,Me propusieron un tratamiento sin aclarar sus limitaciones ni otras alternativas.,NEG,explicaciones,NEU
+R119,Antes de comenzar me explicaron los beneficios y limitaciones del procedimiento.,POS,explicaciones,NEU

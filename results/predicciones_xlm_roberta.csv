@@ -1,0 +1,121 @@
+﻿id,texto,etiqueta,tema,origen,prediccion,score_clase_predicha,correcta
+R001,Estoy contenta con el cambio en mis dientes; se ven como esperaba.,POS,resultados,simulado,POS,0.9046535491943359,True
+R002,Esperé demasiado para pasar y nadie me explicó el motivo del retraso.,NEG,tiempos,simulado,NEG,0.802933394908905,True
+R003,"Pregunté por los pasos del procedimiento, pero la respuesta fue confusa.",NEG,explicaciones,simulado,NEU,0.5220155715942383,False
+R004,Las indicaciones posteriores fueron insuficientes y tuve que buscar aclaraciones.,NEG,seguimiento,simulado,NEG,0.8191501498222351,True
+R005,No me explicaron bien las opciones y terminé con más dudas que al llegar.,NEG,explicaciones,simulado,NEG,0.8303378820419312,True
+R006,"Estaba preocupado por el dolor, pero el procedimiento fue mucho más llevadero de lo esperado.",POS,molestias,simulado,POS,0.5829212665557861,True
+R007,Recibí instrucciones contradictorias sobre los cuidados posteriores.,NEG,explicaciones,simulado,NEG,0.83238685131073,True
+R008,Me hicieron regresar otro día porque la atención se interrumpió antes de terminar.,NEG,tiempos,simulado,NEG,0.8378400802612305,True
+R009,El cobro final fue mayor al presupuesto y no entendí el cambio.,NEG,costos,simulado,NEG,0.6150441765785217,True
+R010,"Pedí una pausa por incomodidad, pero tardaron en atender mi solicitud.",NEG,molestias,simulado,NEG,0.6572564244270325,True
+R011,El procedimiento se dividió en dos citas de diferente duración.,NEU,tiempos,simulado,NEU,0.8770983219146729,True
+R012,El comprobante de pago se envió por correo electrónico.,NEU,pagos,simulado,NEU,0.8355630040168762,True
+R013,No me convenció el aspecto de la restauración y sigo esperando una revisión.,NEG,resultados,simulado,NEG,0.8608495593070984,True
+R014,Después del procedimiento me dieron seguimiento y respondieron mis preguntas.,POS,seguimiento,simulado,NEU,0.5222935080528259,False
+R015,Me entregaron un presupuesto claro y el cobro coincidió con lo acordado.,POS,costos,simulado,POS,0.5271340012550354,True
+R016,Pasé primero a la sala de espera y después al área clínica.,NEU,instalaciones,simulado,NEU,0.8682969212532043,True
+R017,"Aunque el procedimiento terminó, no me gustó la manera en que me trataron.",NEG,atencion,simulado,NEG,0.895758867263794,True
+R018,Me hablaron de cargos adicionales cuando el tratamiento ya había comenzado.,NEG,costos,simulado,NEU,0.5593714118003845,False
+R019,El odontólogo revisó el ajuste de la restauración al cerrar la boca.,NEU,resultados,simulado,NEU,0.8129196166992188,True
+R020,Antes del procedimiento me preguntaron si tenía sensibilidad dental.,NEU,molestias,simulado,NEU,0.6206647157669067,True
+R021,Me gustó el aspecto natural de las restauraciones y cómo se integraron a mi sonrisa.,POS,resultados,simulado,POS,0.901608407497406,True
+R022,En el consultorio hay una unidad dental y equipo para tomar fotografías.,NEU,instalaciones,simulado,NEU,0.8575255274772644,True
+R023,No recibí un desglose de los precios y terminé insatisfecho con la información.,NEG,costos,simulado,NEG,0.8457123637199402,True
+R024,Tuve molestias importantes y sentí que no tomaron en serio mis comentarios.,NEG,molestias,simulado,NEG,0.8568431735038757,True
+R025,La revisión fue rápida sin sentirse apresurada; salí muy satisfecho.,POS,tiempos,simulado,POS,0.8457155227661133,True
+R026,El personal fue muy amable y resolvió mis dudas sin apresurarme.,POS,atencion,simulado,POS,0.7403048276901245,True
+R027,Solicité la factura y entregué mis datos fiscales.,NEU,pagos,simulado,NEU,0.8406163454055786,True
+R028,Durante la revisión me solicitaron señalar las zonas que sentía sensibles.,NEU,molestias,simulado,NEU,0.6229450702667236,True
+R029,La reserva fue sencilla; me enviaron la información necesaria con anticipación.,POS,citas,simulado,NEU,0.5940405130386353,False
+R030,Sentí que mis preguntas incomodaban al personal y no recibí respuestas claras.,NEG,atencion,simulado,NEG,0.8156677484512329,True
+R031,Las instalaciones son cómodas y el equipo se veía bien cuidado.,POS,instalaciones,simulado,POS,0.8904327154159546,True
+R032,Me entregaron una hoja con las indicaciones para después del tratamiento.,NEU,explicaciones,simulado,NEU,0.7013352513313293,True
+R033,En recepción registraron mi llegada antes de pasar al consultorio.,NEU,atencion,simulado,NEU,0.8678247332572937,True
+R034,Durante la cita se verificó la forma de las piezas restauradas.,NEU,resultados,simulado,NEU,0.8318376541137695,True
+R035,Me enviaron por mensaje la fecha y la hora de la consulta.,NEU,citas,simulado,NEU,0.8409532308578491,True
+R036,Me resultó muy cómodo dividir el pago conforme a las condiciones acordadas.,POS,pagos,simulado,POS,0.8179067373275757,True
+R037,La cita de control fue agendada al terminar el tratamiento.,NEU,citas,simulado,NEU,0.8716599941253662,True
+R038,En la revisión posterior escucharon mis comentarios y ajustaron un detalle sin problema.,POS,seguimiento,simulado,POS,0.47960132360458374,True
+R039,La recepción se encuentra junto al área de espera.,NEU,instalaciones,simulado,NEU,0.8786280155181885,True
+R040,El comprobante llegó enseguida y el monto fue exactamente el presupuestado.,POS,pagos,simulado,NEU,0.8501473665237427,False
+R041,"Antes de continuar, pregunté por el costo del mantenimiento semestral.",NEU,costos,simulado,NEU,0.8769401907920837,True
+R042,Me indicaron qué estudios se requieren antes de iniciar la siguiente fase.,NEU,explicaciones,simulado,NEU,0.8767510056495667,True
+R043,Realicé el pago de la consulta mediante transferencia.,NEU,pagos,simulado,NEU,0.7591654062271118,True
+R044,Me gustó que mantuvieran una buena higiene durante toda la visita.,POS,instalaciones,simulado,POS,0.8123122453689575,True
+R045,Durante el tratamiento utilizaron instrumental y una lámpara de trabajo.,NEU,instalaciones,simulado,NEU,0.8715814352035522,True
+R046,La próxima revisión quedó anotada para dentro de seis meses.,NEU,citas,simulado,NEU,0.8291165828704834,True
+R047,El ambiente fue tranquilo y todo estaba organizado para atenderme.,POS,instalaciones,simulado,POS,0.5991517901420593,True
+R048,Acudí a una valoración dental y el odontólogo revisó mis dientes.,NEU,atencion,simulado,NEU,0.7971900105476379,True
+R049,La cotización era poco clara y me sentí presionada para decidir de inmediato.,NEG,costos,simulado,NEG,0.8179891705513,True
+R050,Escribí por una duda después del tratamiento y pasaron días sin respuesta.,NEG,seguimiento,simulado,NEG,0.5845777988433838,True
+R051,Pude elegir un horario conveniente y recibí la confirmación de mi cita sin problemas.,POS,citas,simulado,POS,0.6935713291168213,True
+R052,"Hubo una pequeña espera, pero el proceso fue ágil y la atención valió la pena.",POS,tiempos,simulado,POS,0.8127807974815369,True
+R053,Solicité una cotización de tratamiento para valorar distintas opciones.,NEU,costos,simulado,NEU,0.8796639442443848,True
+R054,Quedé inconforme con la forma de mis dientes después del procedimiento.,NEG,resultados,simulado,NEG,0.8499207496643066,True
+R055,"Aunque invertí más de lo planeado, me pareció justo por la atención recibida.",POS,costos,simulado,POS,0.7940148711204529,True
+R056,Me tomaron fotografías para comparar el estado de mis dientes en la próxima visita.,NEU,resultados,simulado,NEU,0.7802572250366211,True
+R057,"La terminal rechazó el cobro, pero no supieron orientarme sobre la operación.",NEG,pagos,simulado,NEG,0.5959634184837341,True
+R058,La consulta incluyó una entrevista inicial y una exploración bucal.,NEU,atencion,simulado,NEU,0.8955960273742676,True
+R059,"Aunque estaba nervioso, el trato del equipo me hizo sentir tranquilo.",POS,atencion,simulado,POS,0.8481737375259399,True
+R060,No me agradaron las condiciones del espacio donde tuve que esperar.,NEG,instalaciones,simulado,NEG,0.9094188809394836,True
+R061,Me dieron una fecha para revisar el estado de la restauración.,NEU,seguimiento,simulado,NEU,0.5849039554595947,True
+R062,Recibí un mensaje con las indicaciones para mi próxima visita.,NEU,seguimiento,simulado,NEU,0.6872490644454956,True
+R063,Pude pagar con tarjeta y me explicaron las condiciones antes de realizar el cargo.,POS,pagos,simulado,NEU,0.7937813997268677,False
+R064,La revisión y la explicación del plan se realizaron en la misma consulta.,NEU,tiempos,simulado,NEU,0.8574897646903992,True
+R065,La recepción me ofreció opciones de pago claras y sin complicaciones.,POS,pagos,simulado,POS,0.6830130815505981,True
+R066,El acabado del tratamiento superó mis expectativas sin verse artificial.,POS,resultados,simulado,POS,0.8587113618850708,True
+R067,La revisión de control incluyó fotografías y preguntas sobre los cuidados.,NEU,seguimiento,simulado,NEU,0.8947650194168091,True
+R068,Respondieron incluso mis preguntas más básicas y nunca sentí presión para aceptar.,POS,explicaciones,simulado,NEU,0.44327473640441895,False
+R069,Me informaron el precio de la revisión y el de una posible restauración.,NEU,costos,simulado,NEU,0.8699435591697693,True
+R070,"Mi tratamiento terminó dentro del horario estimado, lo cual me facilitó el día.",POS,tiempos,simulado,POS,0.8631963729858398,True
+R071,Recibí indicaciones por escrito y me sentí acompañada en la recuperación.,POS,seguimiento,simulado,POS,0.8619706630706787,True
+R072,Mi cita estaba programada para la mañana y terminó antes del mediodía.,NEU,tiempos,simulado,NEU,0.5665328502655029,True
+R073,La limpieza duró aproximadamente cuarenta minutos.,NEU,tiempos,simulado,NEU,0.7676964402198792,True
+R074,Me mostraron las opciones de tratamiento de forma clara y pude decidir con confianza.,POS,explicaciones,simulado,POS,0.714198112487793,True
+R075,Hoy se colocó una restauración y tengo una revisión programada.,NEU,resultados,simulado,NEU,0.7998594045639038,True
+R076,El ruido y la falta de privacidad hicieron desagradable mi consulta.,NEG,instalaciones,simulado,NEG,0.9416500926017761,True
+R077,La sesión me resultó más dolorosa de lo previsto y no recibí suficiente orientación.,NEG,molestias,simulado,NEG,0.8773363828659058,True
+R078,Me ofrecieron una modalidad de pago que al final no estaba disponible.,NEG,pagos,simulado,NEU,0.5466369390487671,False
+R079,La sala de espera estaba descuidada y me resultó incómoda.,NEG,instalaciones,simulado,NEG,0.9397501349449158,True
+R080,Aprecié que me presentaran alternativas antes de elegir el tratamiento.,POS,costos,simulado,POS,0.5841988325119019,True
+R081,La cita comenzó mucho después de la hora acordada y perdí toda la mañana.,NEG,tiempos,simulado,NEG,0.7418339252471924,True
+R082,Durante la visita hablé con el odontólogo y con una persona de recepción.,NEU,atencion,simulado,NEU,0.851154625415802,True
+R083,Cancelaron mi cita con muy poca anticipación y no ofrecieron una solución útil.,NEG,citas,simulado,NEG,0.8535282611846924,True
+R084,"El consultorio estaba limpio, ordenado y me transmitió confianza.",POS,instalaciones,simulado,POS,0.896403431892395,True
+R085,Me atendieron con paciencia y me sentí escuchada durante toda la consulta.,POS,atencion,simulado,POS,0.875115156173706,True
+R086,"Aunque la primera consulta fue buena, el seguimiento posterior me decepcionó.",NEG,seguimiento,simulado,NEG,0.9334107041358948,True
+R087,"Confirmé mi horario, pero al llegar mi reserva no aparecía en el sistema.",NEG,citas,simulado,NEU,0.5313573479652405,False
+R088,El presupuesto incluye un desglose de los procedimientos propuestos.,NEU,costos,simulado,NEU,0.8038771748542786,True
+R089,"Me prometieron una revisión de seguimiento, pero nunca me contactaron.",NEG,seguimiento,simulado,NEU,0.5768120288848877,False
+R090,"La consulta incluyó información sobre limpieza, restauraciones y controles.",NEU,explicaciones,simulado,NEU,0.875383734703064,True
+R091,Me asignaron un horario distinto al que había solicitado y fue difícil corregirlo.,NEG,citas,simulado,NEG,0.8339949250221252,True
+R092,El resultado estético no se parece a lo que habíamos conversado.,NEG,resultados,simulado,NEU,0.6482374668121338,False
+R093,En recepción respondieron de forma poco amable cuando pedí información.,NEG,atencion,simulado,NEG,0.7469879984855652,True
+R094,La restauración se siente incómoda al morder y no han resuelto mi inquietud.,NEG,resultados,simulado,NEG,0.9040067791938782,True
+R095,Reprogramé mi valoración fácilmente y me ofrecieron varias opciones.,POS,citas,simulado,POS,0.6960833668708801,True
+R096,En la consulta hablamos sobre los cuidados que debo seguir durante los próximos días.,NEU,molestias,simulado,NEU,0.8563181161880493,True
+R097,El área de recepción se veía desordenada y eso me generó desconfianza.,NEG,instalaciones,simulado,NEG,0.9076120257377625,True
+R098,En recepción me explicaron los métodos de pago disponibles.,NEU,pagos,simulado,NEU,0.7906005382537842,True
+R099,Programé una cita para el jueves por la tarde.,NEU,citas,simulado,NEU,0.7995604872703552,True
+R100,Me ayudaron a estar más cómoda durante la limpieza y la experiencia fue buena.,POS,molestias,simulado,POS,0.9004769325256348,True
+R101,Conseguí cita para la misma semana y el proceso de agenda fue excelente.,POS,citas,simulado,POS,0.8994780778884888,True
+R102,Intenté cambiar la cita varias veces y nadie respondió mis mensajes.,NEG,citas,simulado,NEG,0.6530836224555969,True
+R103,El proceso de pago fue confuso y no recibí el comprobante solicitado.,NEG,pagos,simulado,NEG,0.7997474670410156,True
+R104,La consulta comenzó puntual y aun así tuvieron tiempo para revisarme con cuidado.,POS,tiempos,simulado,NEU,0.6122760772705078,False
+R105,Recibí una explicación de las etapas previstas para mi tratamiento.,NEU,explicaciones,simulado,NEU,0.7940458059310913,True
+R106,Después del tratamiento me proporcionaron un número para dudas administrativas.,NEU,seguimiento,simulado,NEU,0.7944645285606384,True
+R107,"A pesar de mis dudas al inicio, terminé satisfecho con el resultado estético.",POS,resultados,simulado,POS,0.718375027179718,True
+R108,El odontólogo me preguntó cómo me sentía al terminar la sesión.,NEU,molestias,simulado,NEU,0.742323637008667,True
+R109,Salí preocupado por una sensación extraña y no conseguí que me explicaran qué hacer.,NEG,molestias,simulado,NEG,0.8198832869529724,True
+R110,El procedimiento se prolongó más de lo anunciado sin aviso previo.,NEG,tiempos,simulado,NEG,0.5091204047203064,True
+R111,Entendí los cuidados posteriores gracias a las indicaciones sencillas que recibí.,POS,explicaciones,simulado,POS,0.5870402455329895,True
+R112,Me aplicaron un cargo que no esperaba y tardaron en darme una explicación.,NEG,pagos,simulado,NEG,0.7573082447052002,True
+R113,Los precios se explicaron desde el inicio y eso me dio mucha tranquilidad.,POS,costos,simulado,POS,0.8889140486717224,True
+R114,Tuve muy pocas molestias y me explicaron qué sensaciones podían ser normales.,POS,molestias,simulado,NEG,0.5180456638336182,False
+R115,"Cuando necesité una pausa durante la atención, la respetaron de inmediato.",POS,molestias,simulado,POS,0.4809306561946869,True
+R116,Me recordaron los cuidados de mantenimiento de una manera útil y amable.,POS,seguimiento,simulado,POS,0.8870746493339539,True
+R117,Me propusieron un tratamiento sin aclarar sus limitaciones ni otras alternativas.,NEG,explicaciones,simulado,NEU,0.6003015041351318,False
+R118,Agradecí que respetaran mis preguntas y me explicaran cada paso con calma.,POS,atencion,simulado,POS,0.4929688274860382,True
+R119,Antes de comenzar me explicaron los beneficios y limitaciones del procedimiento.,POS,explicaciones,simulado,NEU,0.8091145157814026,False
+R120,La consulta fue apresurada y apenas pude comentar mis preocupaciones.,NEG,atencion,simulado,NEG,0.5564764738082886,True

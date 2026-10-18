@@ -1,0 +1,4 @@
+﻿modelo,model_id,accuracy,precision_macro,recall_macro,f1_macro,latencia_lote_total_s,ms_por_resena_en_lote,resenas_por_segundo,tiempo_carga_s,parametros_millones,gpu_memoria_pico_mb,licencia_reportada_hub,revision_hub
+XLM-RoBERTa,cardiffnlp/twitter-xlm-roberta-base-sentiment,0.875,0.90378,0.875,0.87728,0.20273,1.6894,591.93,29.076,278.05,1086.8,no declarada,f2f1202b1bdeb07342385c3f807f9c07cd8f5cf8
+RoBERTuito,pysentimiento/robertuito-sentiment-analysis,0.84167,0.88729,0.84167,0.84175,0.48571,4.0476,247.062,10.303,108.79,435.1,no declarada,a2cc0f67ebd705c55191e25a05ba23d885fcc09b
+DistilBERT,lxyuan/distilbert-base-multilingual-cased-sentiments-student,0.475,0.36877,0.475,0.40914,0.14016,1.168,856.147,8.902,135.33,543.3,apache-2.0,cf991100d706c13c0a080c097134c05b7f436c45
